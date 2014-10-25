@@ -1,5 +1,9 @@
-## Impact of Transmission on MPG  
-
+---
+title: "Impact of Transmission on MPG"
+author: "Prasanna Nandakumar"
+date: "25-Oct-2014"
+output: pdf_document
+---
 ### Executive Summary
 
 Motor Trend magazine is interested in exploring the relationship between a set of variables and miles per gallon (MPG) of a collection of cars. This analysis answers two questions:
